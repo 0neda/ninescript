@@ -1,0 +1,50 @@
+soberania = main
+meRespondaSoComSimOuNao = bool
+sim = true
+nao = false
+aumentando = ++
+taxaBlusinhas = %
+penseNoLula = continue
+socorroXandao = try
+euToErrando = throw
+euNaoVouEnganarOPovoMaisUmaVez = break
+maisUmaVez = while
+companheiro = var
+vocesNasceramSoPraTrabalhar = for
+zeGotinha = null
+desconfiaQueTaCaro = comparação (>)
+naoTaEntregando = mensagem do erro atual no catch
+trabalhar = chamada de função
+pobreNaoPrecisaEstudar = declaração de função
+mensalao = array
+petrolao = map/dictionary
+quandoTiverDesanimado = catch
+imposto = int
+taxa = float
+picanha = string
+porFavorMeAjuda = if
+picanhaOutraVez = else
+jaViviDemais = return
+meContaCompanheiro = input
+
+Referências usadas:
+Imagina um cara sendo acusado de suicídio e não tenha sido ele o assassino, o que a família do morto quer? Que ele seja morto
+Você acha isso bonito? Você acha isso bonito cara? Um cara sem dente, e ainda negu
+Pobre não precisa estudar, vocês nasceram só pra trabalhar
+Quando eu tiver fazendo uma coisa errada, ao invés de falar "O lula tá errando", você tem que falar "eu tô errando"
+Se você vai no supermercado e você desconfia que tal produto tá caro, você não compra
+Quanto mais miserável é o povo, mais ele acredita em coisa fácil
+Cadê o zé gotinha? O Bolsonaro mandou embora porque pensou que ele era petista
+Tenho que mentir, é preciso mentir, o político precisa mentir
+Quando alguém tiver desanimado, "ah eu tô cansado", "ah, eu perdi o emprego", "ah, não vem aumento de salário", pense no Lula
+Mensalão, Petrolão
+Vocês vão voltar a comer picanha outra vez
+Eu já tenho idade demais, já vivi demais, já tenho experiência demais, eu não vou enganar o povo mais uma vez
+Eu só ganhei as eleições dele porque o povo nordestino é analfabeto
+Eu não me preocupo com pesquisa, porque o povo tem razão, a gente não tá entregando o que prometeu então como o povo vai falar bem do governo
+Quer bater em mulher vá bater em outro lugar, mas não dentro da sua casa
+Como é que você vai aumentar o salário mínimo? Aumentando
+É só uma simples pergunta de sim ou não, PORQUE você cortou praticamente toda a verba dos programas que protegem as mulheres?
+Soberania
+Socorro xandão
+O povo não quer comprar revolver, nem cartucho de carabina

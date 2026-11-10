@@ -1,0 +1,19 @@
+soberania() {
+    socorroXandao {
+        anunciar(10 / 0);
+    } quandoTiverDesanimado {
+        anunciar("Erro tratado:", naoTaEntregando());
+    }
+    socorroXandao {
+        euToErrando("Mensagem criada pelo programa.");
+    } quandoTiverDesanimado (erro) {
+        anunciar("Erro proposital tratado:", erro);
+    }
+    companheiro dados = petrolao{"nome": "Ana"};
+    socorroXandao {
+        anunciar(dados["idade"]);
+    } quandoTiverDesanimado (erro) {
+        anunciar("Chave inexistente:", erro);
+    }
+    anunciar("A execucao continuou apos os tratamentos.");
+}

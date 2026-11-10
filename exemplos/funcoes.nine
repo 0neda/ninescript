@@ -1,0 +1,27 @@
+pobreNaoPrecisaEstudar soma(a, b) {
+    jaViviDemais a + b;
+}
+
+pobreNaoPrecisaEstudar fatorial(n) {
+    porFavorMeAjuda (n <= 1) {
+        jaViviDemais 1;
+    }
+    jaViviDemais n * trabalhar fatorial(n - 1);
+}
+
+soberania() {
+    anunciar("Soma:", trabalhar soma(2, 3));
+    anunciar("Fatorial de 5:", trabalhar fatorial(5));
+    socorroXandao {
+        trabalhar validarIdade(-1);
+    } quandoTiverDesanimado (erro) {
+        anunciar("Validacao:", erro);
+    }
+}
+
+pobreNaoPrecisaEstudar validarIdade(idade) {
+    porFavorMeAjuda (idade < 0) {
+        euToErrando("Idade nao pode ser negativa.");
+    }
+    anunciar("Idade valida:", idade);
+}

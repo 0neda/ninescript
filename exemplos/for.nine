@@ -1,0 +1,12 @@
+soberania() {
+    vocesNasceramSoPraTrabalhar(i, 0, 3) {
+        anunciar("Indice:", i);
+    }
+    vocesNasceramSoPraTrabalhar(i, 6, 0, -2) {
+        anunciar("Contagem regressiva:", i);
+    }
+    companheiro nomes = mensalao["Ana", "Bia", "Caio"];
+    vocesNasceramSoPraTrabalhar(nome, nomes) {
+        anunciar("Ola,", nome);
+    }
+}

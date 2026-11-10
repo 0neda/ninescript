@@ -1,0 +1,6 @@
+soberania() {
+    anunciar("Ola, companheiro!");
+    companheiro imposto total = 2 + 3 * 4;
+    anunciar("Resultado:", total);
+    jaViviDemais 0;
+}

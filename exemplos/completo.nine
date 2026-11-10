@@ -1,0 +1,86 @@
+
+pobreNaoPrecisaEstudar calcularMedia(notas) {
+    companheiro total = 0;
+    companheiro quantidade = 0;
+    vocesNasceramSoPraTrabalhar(nota, notas) {
+        total = total + nota;
+        quantidade aumentando;
+    }
+    porFavorMeAjuda (quantidade == 0) {
+        euToErrando("A lista de notas esta vazia.");
+    }
+    jaViviDemais total / quantidade;
+}
+
+soberania() {
+    anunciar("=== BEM-VINDO AO NINESCRIPT ===");
+
+    companheiro picanha nome = meContaCompanheiro("Seu nome: ");
+    companheiro imposto idade = imposto(meContaCompanheiro("Sua idade: "));
+    companheiro taxa saldo = taxa(meContaCompanheiro("Seu saldo (use ponto para decimais): "));
+    anunciar("Ola,", nome, "! Idade:", idade, "| Saldo:", saldo);
+
+    companheiro meRespondaSoComSimOuNao cadastrado = sim;
+    companheiro meRespondaSoComSimOuNao bloqueado = nao;
+    companheiro observacao = zeGotinha;
+    porFavorMeAjuda (observacao == zeGotinha) {
+        anunciar("Cadastro sem observacao.");
+    }
+
+    porFavorMeAjuda (cadastrado && !bloqueado && idade >= 18) {
+        anunciar("Cadastro adulto e ativo.");
+    } picanhaOutraVez {
+        anunciar("Cadastro requer verificacao.");
+    }
+
+    companheiro taxa preco = 10 + 2 * 5;
+    companheiro taxa restante = saldo - preco;
+    anunciar("Preco do produto:", preco);
+    porFavorMeAjuda (preco desconfiaQueTaCaro saldo) {
+        anunciar("Saldo insuficiente.");
+    } picanhaOutraVez {
+        anunciar("Compra possivel. Restariam:", restante);
+    }
+    anunciar("Sua idade como texto:", picanha(idade));
+
+    companheiro imposto contador = 0;
+    companheiro imposto soma = 0;
+    maisUmaVez (contador < 5) {
+        contador aumentando;
+        porFavorMeAjuda (contador taxaBlusinhas 2 == 0) {
+            penseNoLula;
+        }
+        soma = soma + contador;
+        anunciar("Impar:", contador, "| Soma parcial:", soma);
+    }
+    anunciar("Soma dos impares:", soma);
+
+    companheiro imposto tentativa = 0;
+    maisUmaVez (sim) {
+        tentativa aumentando;
+        anunciar("Tentativa:", tentativa);
+        porFavorMeAjuda (tentativa == 3) {
+            euNaoVouEnganarOPovoMaisUmaVez;
+        }
+    }
+
+    porFavorMeAjuda (idade < 18 || saldo < 0) {
+        anunciar("Revise os dados informados.");
+    }
+    companheiro notas = mensalao[7, 8, 9];
+    notas[0] = 10;
+    companheiro aluno = petrolao{"nome": nome, "notas": notas};
+    anunciar("Media de", aluno["nome"], ":", trabalhar calcularMedia(aluno["notas"]));
+
+    vocesNasceramSoPraTrabalhar(i, 0, 3) {
+        anunciar("Indice do for:", i);
+    }
+
+    socorroXandao {
+        anunciar(trabalhar calcularMedia(mensalao[]));
+    } quandoTiverDesanimado {
+        anunciar("Erro tratado:", naoTaEntregando());
+    }
+    anunciar("=== DEMONSTRACAO CONCLUIDA ===");
+    jaViviDemais 0;
+}

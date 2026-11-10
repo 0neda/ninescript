@@ -1,0 +1,4 @@
+soberania() {
+    companheiro imposto valor = 10
+    anunciar(valor);
+}

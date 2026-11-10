@@ -1,0 +1,13 @@
+soberania() {
+    companheiro imposto contador = 0;
+    maisUmaVez (contador < 5) {
+        contador aumentando;
+        porFavorMeAjuda (contador taxaBlusinhas 2 == 0) {
+            penseNoLula;
+        }
+        anunciar("Contador impar:", contador);
+    }
+    porFavorMeAjuda (contador desconfiaQueTaCaro 3) {
+        anunciar("Contador passou de tres.");
+    }
+}

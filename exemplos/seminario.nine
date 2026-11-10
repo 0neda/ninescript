@@ -1,0 +1,8 @@
+soberania() {
+    companheiro imposto idade = meContaCompanheiro("Idade: ");
+    porFavorMeAjuda (idade >= 18) {
+        anunciar("Maior de idade.");
+    } picanhaOutraVez {
+        anunciar("Menor de idade.");
+    }
+}

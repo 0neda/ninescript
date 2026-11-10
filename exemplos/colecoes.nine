@@ -1,0 +1,15 @@
+soberania() {
+    companheiro notas = mensalao[7, 8, 9];
+    notas[0] = 10;
+    companheiro aluno = petrolao{"nome": "Ana", "notas": notas};
+    anunciar("Aluno:", aluno["nome"]);
+    vocesNasceramSoPraTrabalhar(nota, aluno["notas"]) {
+        anunciar("Nota:", nota);
+    }
+    aluno["aprovado"] = sim;
+    aluno["notas"][1] aumentando;
+    anunciar("Notas atualizadas:", notas);
+    vocesNasceramSoPraTrabalhar(chave, aluno) {
+        anunciar(chave, "=", aluno[chave]);
+    }
+}

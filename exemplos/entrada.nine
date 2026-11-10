@@ -1,0 +1,10 @@
+soberania() {
+    companheiro picanha nome = meContaCompanheiro("Seu nome: ");
+    companheiro imposto idade = imposto(meContaCompanheiro("Sua idade: "));
+    anunciar("Ola,", nome);
+    porFavorMeAjuda (idade >= 18) {
+        anunciar("Maior de idade.");
+    } picanhaOutraVez {
+        anunciar("Menor de idade.");
+    }
+}
